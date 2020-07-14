@@ -1,7 +1,7 @@
 # Breakout NeuralNet
 
 <div align="center">
-<img src=https://raw.githubusercontent.com/ryohno/RyohTradingFramework/master/ryoh.PNG>
+<img src=https://raw.githubusercontent.com/ryohno/RyohTradingFramework/master/ryoh%20logo.PNG>
 </div>
 
 
